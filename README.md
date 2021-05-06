@@ -45,7 +45,7 @@ See [link](https://drive.google.com/file/d/1BvZ7-dE-7PnKUyst7JXlUA_u8xhhkbsj/vie
 
 **Is there anything special we need to know in order to effectively test your app? (optional):**
 
-* ...
+* Enable **Location Services** for your testing browser to search nearby grocery stores with specific ranges.
 
 
 

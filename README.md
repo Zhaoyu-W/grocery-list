@@ -1,6 +1,4 @@
-# Module 2 Group Assignment
-
-CSCI 5117, Spring 2021, [assignment description](https://canvas.umn.edu/courses/217951/pages/project-2)
+# Grocery List 
 
 ## App Info:
 
@@ -8,7 +6,7 @@ CSCI 5117, Spring 2021, [assignment description](https://canvas.umn.edu/courses/
 * App Name: Grocery List
 * App Link: https://csci-project-2-cde6c.web.app/
 
-### Students
+### Contributors 
 
 * Zixuan Zhang, zhan7230@umn.edu
 * Zhaoyu Wang, wang9535@umn.edu
